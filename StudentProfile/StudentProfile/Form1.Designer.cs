@@ -37,15 +37,15 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(69, 102);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(347, 25);
+            this.label1.Size = new System.Drawing.Size(414, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile - Jelyn Cabrigas";
+            this.label1.Text = "Student Profile — GitHub Beginner Lab";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(503, 240);
+            this.ClientSize = new System.Drawing.Size(555, 248);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
